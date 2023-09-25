@@ -16,5 +16,5 @@
 <div align="center">
 <h1> ♡ Hiiii!! I'm Luana Hyparxis ♡ </h1>
 </div>
-<h4 align="left"> ☆ Fullstack Student Dev ☆ </h6>
-<h4 align="left">☆ React/.NET - GNU/Linux - Soup/Pandas  ☆ </h6>
+<h4 align="left"> ☆ Fullstack Student Dev ☆ </h4>
+<h4 align="left">☆ React/.NET - GNU/Linux - Soup/Pandas  ☆ </h4>
