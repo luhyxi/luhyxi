@@ -18,5 +18,3 @@
 </div>
 <h4 align="left"> ☆ Fullstack Student Dev ☆ </h6>
 <h4 align="left">☆ React/.NET - GNU/Linux - Soup/Pandas  ☆ </h6>
-
----
