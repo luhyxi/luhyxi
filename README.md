@@ -12,7 +12,7 @@
 -->
 
 <p align="center">
-  <img width="200" src="https://github.com/luhyxi/luhyxi/assets/125469882/6b1eb0fe-fb3a-441f-b89b-db9802b1306c" alt="Luana Hyparxis">
+  <img src="https://i.redd.it/eu0yqbelk3131.png" alt="Luana Hyparxis">
 </p>
 
 <div align="center">
