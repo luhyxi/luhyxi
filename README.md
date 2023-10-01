@@ -23,14 +23,8 @@
 </div>
 
 <div align="center">
-  <div style="display: inline-block; text-align: left;">
-    <p>
-      I have a passion for both computer science and philosophy. My coding journey includes working with C/C++, C#, JS, and React, I primarily use Arch Linux as my operating system. Besides programming, I'm deeply interested in topics related to German idealism, pure mathematics, anime, cute stuff, and psychoanalysis.
-    </p>
-  </div>
   <div style="display: inline-block; text-align: left; margin-left: 20px;">
     <p>
-      Feel free to explore my projects and reach out to me for collaborations or discussions related to programming, philosophy, or anything else that interests you, cheers!
+      I have a passion for both computer science and philosophy. My coding journey includes working with C/C++, C#, JS, and React, I primarily use Arch Linux as my operating system. Besides programming, I'm deeply interested in topics related to German idealism, pure mathematics, anime, cute stuff, and psychoanalysis. <br /> Feel free to explore my projects and reach out to me for collaborations or discussions related to programming, philosophy, or anything else that interests you, cheers!
     </p>
   </div>
-</div>
