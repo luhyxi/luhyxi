@@ -15,10 +15,6 @@
   <img width="45%" src="https://i.redd.it/eu0yqbelk3131.png" alt="Luana Hyparxis">
 </p>
 
-<div align="center">
-  <h1>𝓛𝓾𝓪𝓷𝓪 𝓗𝔂𝓹𝓪𝓻𝔁𝓲𝓼</h1>
-</div>
-
 <p align="center">
   <strong>Fullstack Student Dev | React/.NET | GNU/Linux | Soup/Pandas</strong>
 </p>
