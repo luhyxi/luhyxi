@@ -22,14 +22,7 @@
 <p align="center">
   <strong>Fullstack Student Dev | React/.NET | GNU/Linux | Soup/Pandas</strong>
 </p>
-
-## About Me
-Hello, I'm Luana! a Fullstack Student Dev from Brazil. 
-I have a passion for both computer science and philosophy. My coding journey includes working with C/C++, C#, JS and React, and I primarily use Arch Linux as my operating system. Besides programming, I'm deeply interested in topics related to german idealism, pure mathematics, anime, cute stuff and psychoanalysis.
-
-## Coding Workflow
-I have a structured coding workflow that helps me stay productive:
-- For C# development -> Rider.
-- For everything else -> Vim.
-
+<br />
+  <h2 align="center"> ♡ Hello, I'm Luana! a Fullstack Student Dev from Brazil. ♡ </h2> 
+I have a passion for both computer science and philosophy. My coding journey includes working with C/C++, C#, JS and React, and I primarily use Arch Linux as my operating system. Besides programming, I'm deeply interested in topics related to german idealism, pure mathematics, anime, cute stuff and psychoanalysis. <br /> 
 Feel free to explore my projects and reach out to me for collaborations or discussions related to programming, philosophy, or anything else that interests you, cheers!
