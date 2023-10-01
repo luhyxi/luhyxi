@@ -10,7 +10,6 @@
 
 
 -->
-
 <p align="center">
   <img width="45%" src="https://i.redd.it/eu0yqbelk3131.png" alt="Luana Hyparxis">
 </p>
@@ -18,6 +17,20 @@
 <p align="center">
   <strong>Fullstack Student Dev | React/.NET | GNU/Linux | Soup/Pandas</strong>
 </p>
-  <h2 align="center"> ♡ Hello, I'm Luana! a Fullstack Student Dev from Brazil. ♡ </h2> 
-I have a passion for both computer science and philosophy. My coding journey includes working with C/C++, C#, JS and React, and I primarily use Arch Linux as my operating system. Besides programming, I'm deeply interested in topics related to german idealism, pure mathematics, anime, cute stuff and psychoanalysis. <br /> 
-Feel free to explore my projects and reach out to me for collaborations or discussions related to programming, philosophy, or anything else that interests you, cheers!
+
+<div align="center">
+  <h2> ♡ Hello, I'm Luana! a Fullstack Student Dev from Brazil. ♡ </h2>
+</div>
+
+<div align="center">
+  <div style="display: inline-block; text-align: left;">
+    <p>
+      I have a passion for both computer science and philosophy. My coding journey includes working with C/C++, C#, JS, and React, I primarily use Arch Linux as my operating system. Besides programming, I'm deeply interested in topics related to German idealism, pure mathematics, anime, cute stuff, and psychoanalysis.
+    </p>
+  </div>
+  <div style="display: inline-block; text-align: left; margin-left: 20px;">
+    <p>
+      Feel free to explore my projects and reach out to me for collaborations or discussions related to programming, philosophy, or anything else that interests you, cheers!
+    </p>
+  </div>
+</div>
