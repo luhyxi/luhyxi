@@ -22,9 +22,7 @@
   <h2> ♡ Hello, I'm Luana! a Fullstack Student Dev from Brazil. ♡ </h2>
 </div>
 
-<div align="center">
-  <div style="display: inline-block; text-align: left; margin-left: 20px;">
-    <p>
-      I have a passion for both computer science and philosophy. My coding journey includes working with C/C++, C#, JS, and React, I primarily use Arch Linux as my operating system. Besides programming, I'm deeply interested in topics related to German idealism, pure mathematics, anime, cute stuff, and psychoanalysis. <br /> Feel free to explore my projects and reach out to me for collaborations or discussions related to programming, philosophy, or anything else that interests you, cheers!
-    </p>
-  </div>
+<div align="left">
+<dl><dd><dl><dd><dl><dd><dl><dd>
+    I have a passion for both computer science and philosophy. My coding journey includes working with C/C++, Python, C#, JS and React. I primarily use Arch Linux as my OS. Besides programming, I'm deeply interested in topics related to German idealism, pure mathematics, anime, cute stuff, and psychoanalysis.
+</dd></dl></dd></dl></dd></dl></dd></dl>
