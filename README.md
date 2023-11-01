@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <strong>Fullstack Student Dev | React/.NET | GNU/Linux | Soup/Pandas</strong>
+  <strong>Fullstack Student Dev | React/.NET | GNU/Linux | Embedded/ESP32</strong>
 </p>
 
 <div align="center">
