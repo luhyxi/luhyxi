@@ -15,14 +15,14 @@
 </p>
 
 <p align="center">
-  <strong>Fullstack Student Dev | React/.NET | GNU/Linux | Embedded/ESP32</strong>
+  <strong> Student Dev | C#/ASP.NET | GNU/Linux | Embedded/ESP32 </strong>
 </p>
 
 <div align="center">
-  <h2> ♡ Hello, I'm Luana! a Fullstack Student Dev from Brazil. ♡ </h2>
+  <h2> ♡ Hiyaaaa, I'm Luana! Student Dev from Brazil ♡ </h2>
 </div>
 
 <div align="center">
 <dl><dd><dl><dd><dl><dd><dl><dd>
-    I have a passion for both computer science and philosophy. My coding journey includes working with C/C++, Python, C#, JS and React. I primarily use Arch Linux as my OS. Besides programming, I'm deeply interested in topics related to German idealism, pure mathematics, anime, cute stuff, and psychoanalysis.
+    My coding journey includes working with C/C++, C#, React, Python, Rust, I primarily use Arch Linux as my OS. Besides programming, I'm deeply interested in topics related to mathematics, computation, continental philosophy, history, anime, cute stuff, and psychoanalysis.
 </dd></dl></dd></dl></dd></dl></dd></dl>
