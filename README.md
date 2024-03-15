@@ -15,5 +15,4 @@
     My coding journey includes working with C/C++, C#, React, Python, Rust, I primarily use Arch Linux as my OS. I'm deeply interested in topics related to mathematics, embedded systems, SQL Databases, systems design, continental philosophy, history, competitive programming, anime, and psychoanalysis.
 </dd></dl></dd></dl></dd></dl></dd></dl>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luhyxi&hide=javascript,css,scss,html&theme=tokyonight&layout=donut-vertical) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luhyxi&theme=tokyonight) 
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luhyxi&theme=tokyonight) 
