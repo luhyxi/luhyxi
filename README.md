@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h2> I'm Luana! Dev from Brazil </h2>
+  <h2> I'm Luana! Code writer from Brazil </h2>
 </div>
 
 <div align="center">
